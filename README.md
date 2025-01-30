@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-💻 I'm IT student from Czech republic, currently trying to improve my programming skills.
+💻 I'm IT student from Czech republic.
 
 
 <!--
